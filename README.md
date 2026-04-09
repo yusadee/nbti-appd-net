@@ -61,13 +61,4 @@ The script:
 1. loads pretrained weights,
 2. reads the processed CSV files,
 3. generates figures for experiments 1, 5, and 6,
-4. saves the figures to `figures_exp156_pretrained`, and
-5. displays the figures locally.
-
-## Notes for reviewers
-
-This anonymous release is intended only for result reproduction with pretrained weights.
-
-## Anonymity notes
-
-This repository should not contain any author names, affiliations, personal email addresses, funding statements, acknowledgements, or links to personal webpages.
+4. saves the figures to `figures_exp156_pretrained`
