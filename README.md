@@ -1,6 +1,8 @@
-# Anonymous Code and Data Release for Review
+# Code and Data for NBTI Aging Prediction with APPD-Net
 
-This repository provides the anonymous inference-only release for experiments described in the submitted manuscript.
+This repository provides the code, processed data, and pretrained weights for the experiments reported in our manuscript on NBTI aging prediction using APPD-Net.
+
+The current release includes the inference script, processed datasets, pretrained weights, and instructions for reproducing the reported figures.
 
 ## Included content
 
