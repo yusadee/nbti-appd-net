@@ -47,6 +47,7 @@ pip install -r requirements.txt
 ## How to run
 
 Place the two CSV files and the `weights_exp156` folder in the same directory as the script.
+Unzip weights_exp156.zip into the weights_exp156 folder before running the script.
 
 Run:
 
